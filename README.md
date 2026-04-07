@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="pixel art data science"/>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzkzZWd2OXp3YXpyMG90anB3ZjgxNnY0ZzByd3BiYWFlOHRsbXd1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" width="400" />
+</p>
 
 ### `Data Analyst` · `Data Science Student` · `Social Impact Builder`
 
-*turning raw data into stories that matter* ✨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-isisroiz-4B5E8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isisroiz/)
 [![GitHub](https://img.shields.io/badge/GitHub-isisroiz-2D3748?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isisroiz)
