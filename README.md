@@ -103,7 +103,7 @@ Estruturei do zero a base de dados de uma organização que leva tecnologia a jo
 ## 📂 Projetos em Destaque / Featured Projects
 
 ### 🛡️ Agnes Routes — Safe Routing for Women
-> *Hackathon Lab.AI · Instituto Joule · 🥇 1º Lugar — Eixo Mobilidade*
+> *Hackathon Lab.AI · Instituto Joule · 🥇 2º Lugar — Eixo Mobilidade*
 
 Solução de IA para segurança feminina na mobilidade urbana. O modelo de risco pondera **iluminação pública (40%), fluxo de pessoas (30%), infraestrutura urbana (15%) e percepção emocional (15%)** — índices construídos a partir de relatos reais de 50 mulheres.
 
