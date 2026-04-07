@@ -23,7 +23,7 @@
 
 **🇧🇷 PT-BR**
 
-Oi! Sou a Isis, estudante de **Ciência de Dados** pela Uninter (previsão: 2028) e voluntária de dados na **Edumi**, uma organização que leva tecnologia a jovens de baixa renda.
+Oi! Sou a Isis, estudante de **Ciência de Dados** pela Uninter e estou no primeiro semestre (previsão: 2028) e voluntária de dados na **Edumi**, uma organização que leva tecnologia a jovens de baixa renda.
 
 Já passei por projetos reais com ETL, análise exploratória, modelagem de dados e SQL — e fui **campeã de hackathon** com uma solução de IA para segurança feminina na mobilidade urbana. 🛡️
 
@@ -34,7 +34,7 @@ Estou em busca de oportunidade de **estágio em Dados** pra continuar crescendo 
 
 **🇺🇸 EN**
 
-Hi! I'm Isis, a **Data Science** student at Uninter (expected graduation: 2028) and a volunteer data analyst at **Edumi**, a nonprofit that brings technology to low-income youth.
+Hi! I'm Isis, a **Data Science** student at Uninter in first semester (expected graduation: 2028) and a volunteer data analyst at **Edumi**, a nonprofit that brings technology to low-income youth.
 
 I've worked on real-world projects involving ETL pipelines, exploratory analysis, data modeling, and SQL — and I won a **hackathon** with an AI-powered safe routing app for women. 🛡️
 
