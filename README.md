@@ -109,7 +109,7 @@ Solução de IA para segurança feminina na mobilidade urbana. O modelo de risco
 
 **My role:** ETL pipeline com dados geoespaciais do GeoSampa · Feature engineering dos 4 índices de risco · Visualização por scoring de quadras
 
-[![Repo](https://img.shields.io/badge/🐙_GitHub-Agnes_Routes-2D3748?style=flat-square&logo=github&logoColor=white)]([https://github.com/isisroiz](https://github.com/Mobility2Hackathon/Agnes_Routes))
+[![Repo](https://img.shields.io/badge/🐙_GitHub-Agnes_Routes-2D3748?style=flat-square&logo=github&logoColor=white)](https://github.com/isisroiz](https://github.com/Mobility2Hackathon/Agnes_Routes)
 
 ---
 
